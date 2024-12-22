@@ -11,7 +11,7 @@ In this document I believe the area I did the best was my evaluations. This was 
 
 What about the process of working through a design document did you find helpful when developing the code?
 
-I think everything about this design document was helpful when working on the code. It was a great blueprint for understanding the client's and it helped me to highlight everything before I had begun on my work. Then once I began on the coding it was a great resource to come back to, as I had already broken down each category. So when deciding which operating system would be best, it was invaluable. 
+I think everything about this design document was helpful when working on the code. It was a great blueprint for understanding the client's needs and it helped me to highlight everything before I had begun on my work. Then once I began coding it was a great resource to come back to, as I had already broken down each category. So when deciding which operating system would be best, it was invaluable. 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
